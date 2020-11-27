@@ -5,6 +5,8 @@ ruby '2.7.2'
 
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 gem "haml-rails", "~> 2.0"
+gem 'bootstrap', '~> 5.0.0.alpha3'
+gem 'jquery-rails'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 4.1'
 gem 'sass-rails', '>= 6'
